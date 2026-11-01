@@ -1,4 +1,4 @@
-module github.com/IkeIsenhour/leetcode-go
+module github.com/IkeIsenhour/interview
 
 go 1.22.0
 
