@@ -33,3 +33,6 @@ def convert_units(facts: tuple[str, float, str], queries: tuple[float, str, str]
     results = []
     for query in queries:
 
+        while true:
+            
+
